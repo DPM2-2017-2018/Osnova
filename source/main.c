@@ -30,7 +30,7 @@ void main(void)
     difference = 6;
 
     // get sum and difference through function call
-	foo(x, y);
+	foo(x, y)
 
 	// multiply
 	product = x*y;
